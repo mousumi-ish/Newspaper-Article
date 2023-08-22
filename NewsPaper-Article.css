@@ -16,3 +16,31 @@
 .topnav li:hover {
   background: rgb(42, 218, 98);
 }
+.pref {
+  border-color: darkblue;
+  position: relative;
+  border: 0.2rem solid;
+  top: 2rem;
+}
+
+h3 {
+  color: rgb(87, 7, 156);
+  font-size: 150%;
+  text-align: left;
+}
+h1 {
+  color: rgb(9, 9, 10);
+  font-size: 150%;
+  font-style: normal;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h2 {
+  color: rgb(4, 4, 4);
+  font-size: 150%;
+  font-style: initial;
+}
