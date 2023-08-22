@@ -44,3 +44,10 @@ h2 {
   font-size: 150%;
   font-style: initial;
 }
+.more stories {
+  margin-bottom: 1rem;
+}
+
+.more stories a {
+  margin-right: 1rem;
+}
