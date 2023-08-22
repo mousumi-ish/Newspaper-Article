@@ -44,11 +44,11 @@ h2 {
   font-size: 150%;
   font-style: initial;
 }
-.more stories {
+.morestories {
   margin-bottom: 1rem;
 }
 
-.more stories a {
+.morestories a {
   margin-right: 1rem;
 }
 .cpright-text {
@@ -68,4 +68,9 @@ h2 {
 p {
   color: rgb(5, 0, 10);
   font-size: medium;
+}
+body {
+  background-color: rgb(223, 218, 183);
+  margin-left: 0.3rem;
+  position: relative;
 }
